@@ -1,5 +1,5 @@
-# Python-for-Beginners
+#  Introduction to Programming with Python
 
-Python for Beginners – Full Course [Programming Tutorial] - freecodecamp.org
+Harvard CS50’s Introduction to Programming with Python – Full University Course
 
-Link: https://www.youtube.com/watch?v=eWRfhZUzrAc
+Link: https://www.youtube.com/watch?v=nLRL_NcnK-4&t=39s
